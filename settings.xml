@@ -21,8 +21,8 @@
     </server>
     <server>
         <id>${NEXUS-GRP-REPO}</id>
-      <username>${NEXUS-USER}</username>
-      <password>${NEXUS-PASS}</password>
+      <username>admin</username>
+      <password>nexus</password>
     </server>
   </servers>
 
