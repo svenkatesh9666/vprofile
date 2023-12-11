@@ -164,7 +164,7 @@
 	<repositories>
     <repository>
       <id>maven</id>
-      <url>http://3.129.88.253:8081/repository/maven/</url>
+      <url>http://3.129.88.253:8081/repository/mavenhst/</url>
     </repository>
   </repositories>
 </project>
