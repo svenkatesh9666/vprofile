@@ -163,7 +163,7 @@
     </build>
 	<repositories>
     <repository>
-      <id>${NEXUS-GRP-REPO}</id>
+      <id>nexus</id>
       <url>http://3.129.88.253:8081/repository/maven/</url>
     </repository>
   </repositories>
