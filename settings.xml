@@ -21,8 +21,8 @@
     </server>
     <server>
         <id>maven</id>
-      <username>admin</username>
-      <password>nexus</password>
+      <username>${NEXUS-USER}</username>
+      <password>${NEXUS-PASS}</password>
     </server>
   </servers>
 
