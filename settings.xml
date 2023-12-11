@@ -20,7 +20,7 @@
       <password>${NEXUS-PASS}</password>
     </server>
     <server>
-        <id>${NEXUS-GRP-REPO}</id>
+        <id>maven</id>
       <username>admin</username>
       <password>nexus</password>
     </server>
