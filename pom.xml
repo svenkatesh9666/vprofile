@@ -163,8 +163,8 @@
     </build>
 	<repositories>
     <repository>
-      <id>maven</id>
-      <url>http://3.129.88.253:8081/repository/mavenhst/</url>
+      <id>maven-snapshots</id>
+      <url>http://15.207.108.130:8081/repository/maven-snapshots/</url>
     </repository>
   </repositories>
 </project>
