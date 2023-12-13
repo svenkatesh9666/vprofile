@@ -163,8 +163,8 @@
     </build>
 	<repositories>
     <repository>
-      <id>mavenht</id>
-      <url>http://15.206.92.147:8081/repository/mavenht/</url>
+      <id>mavenhst</id>
+      <url>http://13.235.13.211:8081/repository/mavenhst/</url>
     </repository>
   </repositories>
 </project>
