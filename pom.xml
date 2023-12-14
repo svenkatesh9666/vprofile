@@ -164,7 +164,7 @@
 	<repositories>
     <repository>
       <id>mavenhst</id>
-      <url>http://13.235.13.211:8081/repository/mavenhst/</url>
+      <url>http://18.208.127.193:8081/repository/mavenhst/</url>
     </repository>
   </repositories>
 </project>
