@@ -84,7 +84,7 @@
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <img src="${contextPath}/resources/Images/technologies/jenkins.png" alt="DevOps" style="width:200px;height:150px">
+        <img src="${contextPath}https://res.cloudinary.com/dy6trrrx0/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1701328284/IMG-20230910-WA0000_wmdkyy.jpg" alt="DevOps" style="width:200px;height:150px">
       </div>
     </div>
   </div>
