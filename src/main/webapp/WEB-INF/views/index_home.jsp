@@ -84,7 +84,7 @@
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <img src="${contextPath}/resources/Images/technologies/jenkins.jpg" alt="DevOps" style="width:200px;height:150px">
+        <img src="${contextPath}/resources/Images/technologies/jenkins.png" alt="DevOps" style="width:200px;height:150px">
       </div>
     </div>
   </div>
